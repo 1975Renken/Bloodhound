@@ -1,0 +1,16 @@
+# Minimal requirements for DeKalb PDF Mining Tool
+# This version skips OCR support but works with text-based PDFs
+
+# Web scraping
+requests
+beautifulsoup4
+
+# PDF processing (text-based only)
+PyPDF2
+
+# Data processing
+pandas
+openpyxl
+
+# Progress bars
+tqdm

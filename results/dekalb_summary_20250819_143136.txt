@@ -1,0 +1,16 @@
+================================================================================
+DEKALB COUNTY MEETING MINUTES ANALYSIS SUMMARY
+Generated: 2025-08-19 14:31:36
+================================================================================
+
+No findings identified in the analyzed documents.
+
+Possible reasons:
+- Website may be blocking automated access (403 errors)
+- PDFs may be scanned images requiring OCR
+- Keywords may not appear in the documents
+
+Troubleshooting:
+1. Try accessing the URLs manually in a browser
+2. Download a few PDFs manually and test with those
+3. Check if the website requires authentication
